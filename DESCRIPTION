@@ -1,0 +1,11 @@
+Package: Topgenefunctions
+Type: Package
+Title: Toppgene helper functions
+Version: 0.6
+Date: 2024-1-11
+Author: Apoorva Babu
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: Functions to run Toppgene API
+License: What license is it under?
+LazyData: TRUE
+RoxygenNote: 7.2.3
