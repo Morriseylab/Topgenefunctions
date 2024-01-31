@@ -1,6 +1,6 @@
 #'Run topGene API and convert it to enrichResult
 #' @param genelist vector of genelist
-#' @param categories GO categories to filter results by. Defaults to Molecular Function, Biological Process and
+#' @param categories GO categories to filter results by. Defaults to Molecular Function, Biological Process and Cellular Compartment
 #' @import httr jsonlite dplyr tidyr multienrichjam
 #' @export
 
