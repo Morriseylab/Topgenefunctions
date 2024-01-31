@@ -12,6 +12,8 @@ runtopgene(
 }
 \arguments{
 \item{genelist}{vector of genelist}
+
+\item{categories}{GO categories to filter results by. Defaults to Molecular Function, Biological Process and}
 }
 \description{
 Run topGene API and convert it to enrichResult
